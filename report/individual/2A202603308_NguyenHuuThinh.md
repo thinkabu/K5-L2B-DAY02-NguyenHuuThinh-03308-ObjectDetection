@@ -6,7 +6,7 @@
 - MSSV: 2A202603308
 - Email: nguyenhuuthinh.tabu@gmail.com
 - Lớp: K5-L2B
-- Link repo bài làm: https://github.com/thinkabu/K5-L2-DAY02-NguyenHuuThinh-03308-ObjectDetection
+- Link repo bài làm: https://github.com/thinkabu/K5-L2B-DAY02-NguyenHuuThinh-03308-ObjectDetection
 - Link Colab đã chạy: https://colab.research.google.com/drive/1R0u5H--uGHM0yrYgNlNYPnjfbayq1r8C?usp=sharing
 
 ## 2. Schema và mini guideline
